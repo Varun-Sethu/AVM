@@ -1,0 +1,12 @@
+// Tood non vmmmmmy
+
+func:
+    loadp $r0 100          ; Load 100 into register 0
+    loadp $r1 700          ; load 700 into register 1
+    add $ri3, $ri1, $ri0   ; add and store in register 3
+
+; loadp loads primitive types
+; loado will load objects
+
+_start:
+    call func

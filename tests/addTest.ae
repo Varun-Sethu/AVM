@@ -1,0 +1,9 @@
+func add(int x, int y) -> int:
+    return x + y
+
+
+func main():
+    add(100, 700)
+
+
+
