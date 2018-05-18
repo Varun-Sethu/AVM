@@ -1,6 +1,0 @@
-C:\Users\varun\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/cygwin64/bin/make.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/varun/Desktop/AVM
--- Configuring done
-CMake Error: CMake can not determine linker language for target: AVM
-CMake Error: Cannot determine link language for target "AVM".
--- Generating done
--- Build files have been written to: /cygdrive/c/Users/varun/Desktop/AVM/cmake-build-debug
