@@ -6,12 +6,12 @@
     - There were some additional functions added to the allocator such as the defragmenter the reallocator and the auto extender.
 
     - **Complexity**
-        - Defragmenting: $O(n)$
-        - Allocation: $O(1)$
-        - Free: $O(1)$
-        - Realloc: $O(n)$ ??
+        - Defragmenting: O(n)
+        - Allocation: O(1)
+        - Free: O(1)
+        - Realloc: O(n)??
             - Not too sure about this one
-        - Space: $O(n)$
+        - Space: O(n)
 
 
 - ### Music :wink:
